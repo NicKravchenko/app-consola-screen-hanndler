@@ -1,0 +1,22 @@
+{
+  "name": "app-consola-screen-hanndler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicKravchenko/app-consola-screen-hanndler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicKravchenko/app-consola-screen-hanndler/issues"
+  },
+  "homepage": "https://github.com/NicKravchenko/app-consola-screen-hanndler#readme",
+  "dependencies": {
+    "arquitectura-de-software-consoleapp": "^1.1.0"
+  }
+}
